@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pImlT25tLU=",
+  "success": true,
+  "projectFilePath": "H:\\SupernovaMenu\\SupernovaMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaxso\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
